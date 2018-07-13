@@ -1,36 +1,37 @@
 {
-  "title":"Quizz about Foo",
+  "title":"Le SNOSAN vous propose de tester vos connaissances de la sécurité en mer, pour la plaisance et les loisirs nautiques. Prêts ?",
   "questions":[
     {
-      "text":"Is true true?",
+      "text":"En mer, le numéro d'urgence est le 196",
       "type":"tf",
       "answer":"t"
     },
     {
-      "text":"Is false true?",
+      "text":"Je peux conduire un scooter des mers sans permis spécifique",
       "type":"tf",
       "answer":"f"
     },
     {
-      "text":"What is the best beer?",
+      "text":"Dans la bande littorale des 300 mètres, la vitesse limite est de",
       "type":"mc",
       "answers":[
-        "Coors",
-        "Miller",
-        "Bud",
-        "Anchor Steam"
+        "2 nœuds",
+        "5 nœuds",
+        "8 nœuds",
+        "10 nœuds"
       ],
-      "answer":"Anchor Steam"
+      "answer":"5 nœuds"
     },
     {
-      "text":"What is the best cookie?",
+      "text":"Les CROSS ont été créés en",
       "type":"mc",
       "answers":[
-        "Chocolate Chip",
-        "Sugar",
-        "Beer"
+        "1842",
+        "1927",
+        "1966",
+        "1990"
       ],
-      "answer":"Sugar"
+      "answer":"1966"
     }
   ]
 }
