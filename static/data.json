@@ -3,6 +3,7 @@
   "questions":[
     {
       "text":"En mer, le numéro d'urgence est le 196",
+      "image": "https://placeimg.com/500/150/nature",
       "type":"tf",
       "answer":"t",
       "explanations": "Ici, plus d'explications. Lorem ipsum, consectetur adipiscing elit. Mauris porttitor dolor non placerat auctor. In a est rutrum, dictum massa et, pretium mauris. Praesent hendrerit mauris eget sodales scelerisque. Sed dolor est, maximus eget eros in, sollicitudin semper mauris."
@@ -15,6 +16,7 @@
     },
     {
       "text":"Dans la bande littorale des 300 mètres, la vitesse limite est de",
+      "image": "https://placeimg.com/500/150/animals",
       "type":"mc",
       "answers":[
         "2 nœuds",
@@ -27,6 +29,7 @@
     },
     {
       "text":"Les CROSS ont été créés en",
+      "image": "https://placeimg.com/500/150/tech",
       "type":"mc",
       "answers":[
         "1842",
